@@ -1,0 +1,67 @@
+.body{
+    margin: 0px 150px;  
+}
+.gray{
+    color: rgba(0, 0, 0, 0.5);
+}
+/* nav bar style  */
+.nav-bar {
+    justify-content: space-between; 
+    margin: 50px 150px;
+    align-items: center;
+}
+
+.nav-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 0px;
+}
+
+.nav-item {
+    list-style: none;
+    text-align: center;
+}
+
+/* basic information style  */
+.home{
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Istiak's  basic information style  */
+.basic-info{
+
+}
+.name{
+    text-align: center;
+}
+.info-icon{
+    display: flex;
+    justify-content: space-between;
+}
+.icon-box{
+    border: 2px;
+    border-color: gray;
+    border-radius: 20px;
+    height: 60px;
+    width: 60px;
+    background-color:rgb(158, 198, 200);
+}
+.icon{
+    padding: 10px;
+    height: auto;
+    width: 40px;
+}
+/* .content-section{
+
+} */
+
+
+/* footer sections style   */
+.footer{
+    font-size:small;
+    color: rgb(104, 104, 104);
+    text-align: center;
+    margin-bottom: 50px;
+}
